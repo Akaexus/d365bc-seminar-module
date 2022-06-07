@@ -8,4 +8,8 @@ tableextension 50001 SalesReceExt extends "Sales & Receivables Setup"
             TableRelation = "G/L Account";
         }
     }
+
+
 }
+
+
